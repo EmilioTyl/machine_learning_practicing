@@ -1,2 +1,2 @@
-model_checkpoint_path: "openai_convolution.ckpt"
-all_model_checkpoint_paths: "openai_convolution.ckpt"
+model_checkpoint_path: "deepqnn_model.ckpt"
+all_model_checkpoint_paths: "deepqnn_model.ckpt"
